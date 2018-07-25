@@ -5,10 +5,6 @@
 
 class HelloWorld {
 	public static void main(String[] args){
-<<<<<<< HEAD
-		System.out.println("Hello, Welcome to");
-=======
 		System.out.println("Hello, Welcome to Java!");
->>>>>>> master
 	}
 }
